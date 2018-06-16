@@ -1,6 +1,10 @@
 [
   {
-    "repository": "android_device_oppo_common",
+    "repository": "android_vendor_oneplus_oneplus3",
+    "target_path": "vendor/oneplus"
+  },
+  {
+    "repository": "android_device_oppo_common_oneplus3",
     "target_path": "device/oppo/common"
   },
   {
@@ -8,3 +12,4 @@
     "target_path": "kernel/oneplus/msm8996"
   }
 ]
+ 
