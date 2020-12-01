@@ -30,6 +30,7 @@ PRODUCT_NAME := dot_oneplus3
 PRODUCT_DEVICE := oneplus3
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
+PRODUCT_MODEL := OnePlus 3/3T
 
 # Set BootAnimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
